@@ -1,7 +1,0 @@
-make sure you are on this webpage:
-
-chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json
-
-go to inspect > console and enter this:
-
-chrome.management.setEnabled('jcdhmojfecjfmbdpchihbeilohgnbdci', false);chrome.management.setEnabled('jnhblfnklpfpbbadlfbikhhifadinfho', false);chrome.management.setEnabled('cpnjigmgeapagmdimmoenaghmhilodfg',false);
